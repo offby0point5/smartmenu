@@ -1,0 +1,2 @@
+# smartmenu
+Make dmenu smarter
